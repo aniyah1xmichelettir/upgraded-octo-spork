@@ -1,0 +1,49 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\cssselect-1.2.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/cssselect-1.2.0.dist-info/AUTHORS",
+    "Lib/site-packages/cssselect-1.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/cssselect-1.2.0.dist-info/LICENSE",
+    "Lib/site-packages/cssselect-1.2.0.dist-info/METADATA",
+    "Lib/site-packages/cssselect-1.2.0.dist-info/RECORD",
+    "Lib/site-packages/cssselect-1.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/cssselect-1.2.0.dist-info/WHEEL",
+    "Lib/site-packages/cssselect-1.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/cssselect-1.2.0.dist-info/top_level.txt",
+    "Lib/site-packages/cssselect/__init__.py",
+    "Lib/site-packages/cssselect/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/cssselect/__pycache__/parser.cpython-312.pyc",
+    "Lib/site-packages/cssselect/__pycache__/xpath.cpython-312.pyc",
+    "Lib/site-packages/cssselect/parser.py",
+    "Lib/site-packages/cssselect/py.typed",
+    "Lib/site-packages/cssselect/xpath.py",
+    ".nonadmin"
+  ],
+  "fn": "cssselect-1.2.0-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\cssselect-1.2.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "6db5b1cecbd27801e49c21f150b04591",
+  "name": "cssselect",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\cssselect-1.2.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::cssselect==1.2.0=py312haa95532_0[md5=6db5b1cecbd27801e49c21f150b04591]",
+  "sha256": "216a2f3b5e037861efe00e44a25571e3334b6b2ddd410b24169fbbb2341b655a",
+  "size": 48762,
+  "subdir": "win-64",
+  "timestamp": 1707340091000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/cssselect-1.2.0-py312haa95532_0.conda",
+  "version": "1.2.0"
+}
